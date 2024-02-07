@@ -11,7 +11,7 @@ public class Main {
         }
 
         /// Задание №3.
-        for (int i = 0; i <= 17; i=i+2) {
+        for (int i = 0; i <= 17; i+=2) {
             System.out.println(i);
         }
 
@@ -21,12 +21,12 @@ public class Main {
         }
 
         /// Задание №5.
-        for (int i = 1904; i <= 2096; i=i+4) {
+        for (int i = 1904; i <= 2096; i+=4) {
             System.out.println(i + " год високосный.");
         }
 
         /// Задание №6.
-        for (int i = 7; i <= 98; i=i+7) {
+        for (int i = 7; i <= 98; i+=7) {
             System.out.println(i);
         }
 
